@@ -45,6 +45,19 @@ The project includes custom test functions within `Main.cpp` to verify:
 - Edge cases and exception handling
 - Simulation performance and peak usage
 
+## 🖼️ Simulation Output
+
+Here is a sample from the simulator run (First Fit, Best Fit, Worst Fit):
+
+### ✅ Part 1: First Fit & Best Fit Scenarios
+
+![Simulation 1](./סימולציה%201.png)
+
+### ✅ Part 2: Worst Fit & Summary
+
+![Simulation 2](./סימולציה%202.png)
+
+
 ## 👤 Authors
 
 - Adi Levi – [LinkedIn](https://www.linkedin.com/in/adi-levi-5008858269/)
