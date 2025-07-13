@@ -48,7 +48,7 @@ The project includes custom test functions within `Main.cpp` to verify:
 ## 👤 Authors
 
 - Adi Levi – [LinkedIn](https://www.linkedin.com/in/adi-levi-5008858269/)
-- Aviv Friedman
+- Aviv Friedman - [LinkedIn](https://www.linkedin.com/in/aviv-friedman-38719426b/)
 
 ## 📄 License
 
